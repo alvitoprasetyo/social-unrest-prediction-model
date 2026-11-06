@@ -1,0 +1,18 @@
+{
+    "model_name": "XGBoost (Tuned)",
+    "best_params": {
+        "subsample": 1.0,
+        "n_estimators": 300,
+        "max_depth": 6,
+        "learning_rate": 0.2,
+        "colsample_bytree": 0.8
+    },
+    "mean_f1_score": 0.8236423421283515,
+    "fold_scores": [
+        0.8378568494995423,
+        0.8183027407420733,
+        0.8182066567312469,
+        0.8189496909384114,
+        0.8248957727304834
+    ]
+}

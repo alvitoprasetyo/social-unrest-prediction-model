@@ -1,0 +1,1 @@
+{"model_name": "Support Vector Machine (Tuned)", "best_params": {"C": 10, "kernel": "rbf", "gamma": "scale"}, "mean_f1_score": 0.8347446261497449, "fold_scores": [0.8423530056461483, 0.8235242952018551, 0.8369814439094129, 0.8257038213940924, 0.8451605645972157]}
